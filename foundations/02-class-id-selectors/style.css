@@ -1,0 +1,18 @@
+.pclass {
+    background-color: #ffb6c1;
+}
+
+.pclass.pclassplus {
+    font-size: 24px;
+}
+
+#blue-text{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#green-bkground{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 700;
+}
